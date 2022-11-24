@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Kayit extends SansliKullanicilar {
+public class Kayit extends sansliKullanicilaribulanprogram.SansliKullanicilar {
     static Scanner scan = new Scanner(System.in);
     static List<String> list = new ArrayList<String>();
 
